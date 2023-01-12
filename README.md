@@ -6,7 +6,7 @@ Movie recommendation systems are basically of three types:
 -	Popularity Based Recommendation System - It is a form of recommendation system that operates on the concept of popularity and/or anything that is in trend. These technologies determine which movies are most in demand or well-liked by people and then immediately recommend them.
 -	Collaborative Based Recommendation System - Here, information is filtered by collaborative filtering using other users' interactions and system-collected data. It is predicated on the notion that individuals who agreed in their judgement of particular movies are likely to agree once more in the future.
 
-This recommendation system is based on popularity.
+This recommendation system is based on content.
 
 ## Used Libraries
 
